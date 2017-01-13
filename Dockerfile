@@ -1,2 +1,2 @@
-FROM  gcr.io/google_containers/heapster-grafana:v4.0.2
+FROM  gcr.io/google_containers/heapster-grafana:v3.1.1
 MAINTAINER Jason <zhuxiaozhe@wesai.com>
